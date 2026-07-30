@@ -7,7 +7,7 @@ This is based on Algorithm0's deepcool-digital-info project for Linux
 
 ## Current Features
 
-- Display CPU temp or CPU utilization % using LibreHardwareMonitor
+- Display CPU temp or CPU utilization %
 - switch between temp, utilization, or alternating modes
 - Works with some DeepCool USB HID displays (compatibility list below)
 - Automatic startup via Task Scheduler
@@ -53,3 +53,21 @@ extensive list of arguments:
 - --mode xyz : Display mode: temp, usage, or both (default: both).
 - --flip-interval : Time in seconds before switching displays in "both" mode (default: 8).
 - --debug : Print sensor values to the console.
+
+## Compatibility
+Supports:
+  - AK400
+  - AK500
+  - AK500S
+  - AK620
+  - AG400
+  - CH510
+
+
+## Credits
+
+Big thank you to Algorithm0 for the original linux version! This windows version is very much based off of that. 
+
+Original Linux project:
+
+https://github.com/Algorithm0/deepcool-digital-info
