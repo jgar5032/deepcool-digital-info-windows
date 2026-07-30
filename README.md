@@ -1,6 +1,12 @@
 # deepcool-digital-info-windows
 Windows port of the Linux DeepCool Digital USB display driver for certain CPU coolers with digital displays.
 
+--
+
+<img width="300" height="300" alt="cooler" src="https://github.com/user-attachments/assets/3256f929-306b-43af-8cd9-ea5c5462e65f" />
+
+--
+
 I decided to make this because DeepCool's standard windows software uses up more system resources than I would like, and I feel better knowing exactly what this software is doing as opposed to DeepCool's close-source version.
 
 This is based on Algorithm0's deepcool-digital-info project for Linux
