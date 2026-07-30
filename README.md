@@ -1,4 +1,4 @@
-# deepcool digital CPU cooler display software for windows
+# DeepCool Digital CPU Cooler Display Software for Windows
 Windows port of the Linux DeepCool Digital USB display driver for certain CPU coolers with digital displays.
 
 --
