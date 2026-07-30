@@ -17,9 +17,9 @@ This is based on Algorithm0's deepcool-digital-info project for Linux
 - hid
 - psutil
 - pythonnet
-- LibreHardwareMonitorLib.dll (Get it from [LibreHardwareMonitor]([url](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases)))
-- System.Memory.dll (Get it from [LibreHardwareMonitor]([url](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases)))
-- System.Runtime.CompilerServices.Unsafe.dll (Get it from [LibreHardwareMonitor]([url](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases)))
+- LibreHardwareMonitorLib.dll (Get it from (Get it from [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases))
+- System.Memory.dll (Get it from (Get it from [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases))
+- System.Runtime.CompilerServices.Unsafe.dll (Get it from [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases))
 - PawnIO
 
 ## Setup:
